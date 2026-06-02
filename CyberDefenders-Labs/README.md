@@ -2,6 +2,7 @@
 This repository features several labs from CyberDefenders, with each categorized by their respective path (e.g SOC Analyst Tier One, Network Forensics, etc.). Each lab will follow a question and answer format that demonstrates how I answered each question with documentation.
 
 # Table of Contents
-- [SOC Analyst Tier One]
+- [SOC Analyst Tier One](https://github.com/VincentLindsay/Security-Analysis-Portfolio/tree/main/CyberDefenders-Labs/SOC%20Analyst%20Tier%20One)
+- [Network Forensics](https://github.com/VincentLindsay/Security-Analysis-Portfolio/tree/main/CyberDefenders-Labs/Network%20Forensics)
 
 
