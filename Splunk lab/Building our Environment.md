@@ -25,4 +25,8 @@ This section involves the development of the virtual machines used in this lab, 
 <img width="626" height="475" alt="image" src="https://github.com/user-attachments/assets/469388b8-4d9d-4cbd-9787-a340b562137c" />
 
 * I also chose the custom Windows installation option
-* 
+* I followed all of the options, and created a generic user account
+<img width="463" height="426" alt="image" src="https://github.com/user-attachments/assets/60c89f46-1e50-418b-b020-07f6f7538dde" />
+
+* Without any issues, I was able to install Windows, and I also installed VMware tools.
+
