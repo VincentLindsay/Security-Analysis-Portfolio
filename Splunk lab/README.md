@@ -6,3 +6,4 @@ Since this lab is based on MYDFIR's Splunk 101 course, a capstone project will e
 # Table of Contents
 * [Building our Environment](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/Splunk%20lab/Building%20our%20Environment.md)
 * [Installing Splunk](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/Splunk%20lab/Installing%20Splunk.md)
+* [Creating an Index](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/Splunk%20lab/Creating%20an%20index.md)
