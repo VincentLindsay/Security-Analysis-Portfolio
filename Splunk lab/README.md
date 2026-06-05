@@ -4,5 +4,5 @@ This lab features the use of an Ubuntu server, and a Windows 10 virtual machine 
 Since this lab is based on MYDFIR's Splunk 101 course, a capstone project will entail everything I've learned through the course, and additional documentation (e.g Building the environment) will be added to showcase my learning.
 
 # Table of Contents
-* Building our Environment
+* [Building our Environment](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/Splunk%20lab/Building%20our%20Environment.md)
 * Installing Splunk
