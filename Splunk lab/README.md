@@ -8,3 +8,4 @@ Since this lab is based on MYDFIR's Splunk 101 course, a capstone project will e
 * [Installing Splunk](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/Splunk%20lab/Installing%20Splunk.md)
 * [Creating an Index](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/Splunk%20lab/Creating%20an%20index.md)
 * [Installing Applications](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/Splunk%20lab/Installing%20Applications.md)
+* [Setting Up Forwarder](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/Splunk%20lab/Setting%20Up%20Forwarder.md)
