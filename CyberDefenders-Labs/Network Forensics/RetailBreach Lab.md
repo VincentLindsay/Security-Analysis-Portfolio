@@ -73,12 +73,12 @@ Q5: The theft of a session token through XSS is a serious security breach that a
 
 Q6: Identifying which scripts have been exploited is crucial for mitigating vulnerabilities in a web application. What is the name of the script that was exploited by the attacker?
 
--By using the session token, and the attacker's IP address, we can filter for events with these items
+- By using the session token, and the attacker's IP address, we can filter for events with these items, and find the malicious script
 <img width="1918" height="562" alt="image" src="https://github.com/user-attachments/assets/d2068a0e-3d13-4300-b8f9-887160d72674" />
  
 ---
 
 Q7: Exploiting vulnerabilities to access sensitive system files is a common tactic used by attackers. Can you identify the specific payload the attacker used to access a sensitive system file?
 
--By using the same filter, we can also see the sensitive file accessed by the attacker's script.
+- By using the same filter, we can also see the sensitive file accessed by the attacker's script.
 <img width="1918" height="428" alt="image" src="https://github.com/user-attachments/assets/5eccb522-2e28-46bb-b97a-72494a131e06" />
