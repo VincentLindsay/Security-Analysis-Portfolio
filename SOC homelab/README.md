@@ -5,6 +5,8 @@ Additionally, this lab will also feature a kali linux machine to simulate attack
 
 # Table of Contents
 - Building the environment
+- Installing Splunk
 - Configuring Active Directory
 - Configuring endpoints
 - Developing attacker machine
+- Simulating attacks
