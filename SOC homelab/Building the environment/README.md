@@ -5,4 +5,5 @@ This section involves the development of the virtual network, and respective mac
 # Table of Contents
 - [Building the network](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/SOC%20homelab/Building%20the%20environment/Building%20the%20network.md)
 - [Configuring Windows Server 2019](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/SOC%20homelab/Building%20the%20environment/Configuring%20Windows%20Server%202019.md)
+- [Deploying the Windows 11 Client]
 
