@@ -4,4 +4,7 @@ Additionally, this lab will also feature a kali linux machine to simulate attack
 
 
 # Table of Contents
-- Building the Network
+- Building the environment
+- Configuring Active Directory
+- Configuring endpoints
+- Developing attacker machine
