@@ -10,5 +10,6 @@ Additionally, this lab will also feature a kali linux machine to simulate attack
 - Installing Splunk and Wazuh
 - Configuring Active Directory
 - Configuring endpoints
-- Developing attacker machine
+- Configuring the attacker machine
 - Simulating attacks
+- Adding osTicket to the lab
