@@ -28,6 +28,7 @@ This section involves the installation and configuration of a Windows 10 endpoin
 - Once logged in, I began to optimise the performance of the vm, and I disabled Windows Updates via group policy edit.
 <img width="685" height="632" alt="image" src="https://github.com/user-attachments/assets/4feb8234-b53b-4613-93de-e6a7407eb548" />
 
+- I also installed VMware tools to improve the resolution, and performanace of the vm.
 - Now the Windows machine is in a good state to configure Sysmon, and Splunk universal forwarder.
 
 
