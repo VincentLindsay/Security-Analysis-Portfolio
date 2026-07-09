@@ -4,15 +4,18 @@ This section involves the installation and configuration of a Windows 10 endpoin
 # Steps taken
 - To retrieve the ISO for Windows 10, I searched the web for "download windows 10".
 - Direct link: https://www.microsoft.com/en-us/software-download/windows10
-- I chose the option to download an ISO file.
+- I used to media creation tool to create the ISO file
+<img width="790" height="703" alt="image" src="https://github.com/user-attachments/assets/3d7efb3b-7d35-4eb4-9958-8597a70c6170" />
+
+- When I reached the choice of what to have the media tool do, I selected the option of creating an installation media
+- Then have the tool create the ISO file
   
-<img width="1317" height="582" alt="image" src="https://github.com/user-attachments/assets/5a30635c-fbdf-4e19-bea5-8285acd9287b" />
+
 
 - After sometime, I created the virtual machine, and disabled side channel mitigations for additional performance.
 - I will eventually add Splunk Universal Forwarder, and Sysmon to this vm.
 - I will also add this machine to the domain I created.
-
-<img width="707" height="562" alt="image" src="https://github.com/user-attachments/assets/2c1ab86d-1025-4b0d-8878-af9a18ce55f4" />
+<img width="642" height="486" alt="image" src="https://github.com/user-attachments/assets/a0ef5eff-2dd0-4e93-a0a2-3d049a66417a" />
 
 - Since I do not have a product key, I chose the option of "I don't have a product key."
 - I selected Windows 10 Pro as the edition of Windows for this homelab.
