@@ -1,0 +1,12 @@
+# Overview
+This section revolves around the deployment of two different Ubuntu servers that are used for Splunk, and Wazuh.
+
+# Retrieving the ISO
+- I obtained the Ubuntu servers from Ubuntu's download page.
+- Direct link: https://ubuntu.com/download/server
+- For this lab, I used Ubuntu server version 24.04.4.
+- Once downloaded, I proceeded to install, and configure both servers.
+
+# Setting up Splunk Server
+
+# Setting up Wazuh Server
