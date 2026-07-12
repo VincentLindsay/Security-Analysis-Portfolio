@@ -5,6 +5,9 @@ This section revolves around the deployment of two different Ubuntu servers that
 - I obtained the Ubuntu servers from Ubuntu's download page.
 - Direct link: https://ubuntu.com/download/server
 - For this lab, I used Ubuntu server version 24.04.4.
+- To obtain a previous version, navigate to the alternative downloads page on the server downloads
+
+
 - Once downloaded, I proceeded to install, and configure both servers.
 
 # Setting up Splunk Server
