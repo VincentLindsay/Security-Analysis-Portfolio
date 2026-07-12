@@ -8,5 +8,5 @@ This section involves the development of the virtual network, and respective mac
 - [Deploying the Windows 10 Client](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/SOC%20homelab/Building%20the%20environment/Deploying%20the%20Windows%2010%20Client.md)
 - [Deploying the Splunk, and Wazuh servers]
 - [Deploying the osTicket Server]
-- [Making the attacker's environment]
+- [Making the attacker's environment](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/SOC%20homelab/Building%20the%20environment/Making%20the%20attacker's%20environment.md)
 
