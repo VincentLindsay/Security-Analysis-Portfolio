@@ -9,7 +9,6 @@ Additionally, this lab will also feature a kali linux machine to simulate attack
 - [Building the environment](https://github.com/VincentLindsay/Security-Analysis-Portfolio/tree/main/SOC%20homelab/Building%20the%20environment)
 - Installing Splunk and Wazuh
 - Configuring Active Directory
-- Configuring endpoints
 - Configuring the attacker machine
 - Simulating attacks
 - Adding osTicket to the lab
