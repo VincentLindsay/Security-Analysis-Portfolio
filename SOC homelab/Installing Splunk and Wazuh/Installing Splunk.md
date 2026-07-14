@@ -31,8 +31,9 @@
 
 <img width="1255" height="108" alt="image" src="https://github.com/user-attachments/assets/eb3a4443-ee8a-4ad0-88e8-0ae5a6c15b9e" />
 
-- I modified the **50-cloud-init.yaml**  
-<img width="952" height="333" alt="image" src="https://github.com/user-attachments/assets/5531d481-fbdc-4b8d-8723-bb405acc128d" />
+- I modified the **50-cloud-init.yaml** file.
+<img width="890" height="147" alt="image" src="https://github.com/user-attachments/assets/e4458b11-59d3-41bf-be85-8986802da81a" />
+
 
 - This allows for the IP address to be a static IP.
 
