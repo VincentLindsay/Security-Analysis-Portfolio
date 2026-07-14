@@ -23,7 +23,19 @@
 - Since we are SSH'd into the server, we can simply copy the wget link.
 - After retrieving the package, we can see that it is present in the server.
 
+
 <img width="1918" height="437" alt="image" src="https://github.com/user-attachments/assets/d0a430a4-6345-4f02-a1d3-0fa6a5af5750" />
+
+- Prior to installing Splunk, I assigned the server a static IP address within the VNET.
+- To assign the static IP address, I navigated to the **/etc/netplan** directory
+
+<img width="1255" height="108" alt="image" src="https://github.com/user-attachments/assets/eb3a4443-ee8a-4ad0-88e8-0ae5a6c15b9e" />
+
+- I modified the **50-cloud-init.yaml**  
+<img width="952" height="333" alt="image" src="https://github.com/user-attachments/assets/5531d481-fbdc-4b8d-8723-bb405acc128d" />
+
+- This allows for the IP address to be a static IP.
+
 
 - Next, I began to install the package to the Splunk server.
 
