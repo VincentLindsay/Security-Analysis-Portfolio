@@ -1,5 +1,5 @@
 # Overview
-This section of the SOC homelab showcases the installation of Active Directory Domain Services to promote a Windows Server to a Domain Controller, and creating a domain by the name of **Phoenix[.]com**
+This section of the SOC homelab showcases the installation of Active Directory Domain Services to promote a Windows Server to a Domain Controller, and creating a domain by the name of **Phoenix[.]local**
 
 <img width="1630" height="843" alt="image" src="https://github.com/user-attachments/assets/46c67496-f49c-4092-a22a-7c0a908043ec" />
 
