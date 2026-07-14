@@ -11,7 +11,7 @@
 
 # Table of Contents
 - [Building the environment](https://github.com/VincentLindsay/Security-Analysis-Portfolio/tree/main/SOC%20homelab/Building%20the%20environment)
-- Configuring Active Directory
+- [Configuring Active Directory](https://github.com/VincentLindsay/Security-Analysis-Portfolio/tree/main/SOC%20homelab/Configuring%20Active%20Directory)
 - [Installing Splunk and Wazuh](https://github.com/VincentLindsay/Security-Analysis-Portfolio/tree/main/SOC%20homelab/Installing%20Splunk%20and%20Wazuh)
 - Configuring the attacker machine
 - Simulating attacks
