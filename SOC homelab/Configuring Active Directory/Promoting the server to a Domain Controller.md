@@ -31,6 +31,15 @@
 - Next, I added a new forest to serve as the domain in the lab.
 <img width="766" height="562" alt="image" src="https://github.com/user-attachments/assets/64325759-64ab-463e-979a-43ebf2284692" />
 
+- After sometime, the server was promoted to a DC
+- I created a separate domain account to serve as a domain administrator to simplify the addition of endpoints into the domain.
+
+<img width="1023" height="780" alt="image" src="https://github.com/user-attachments/assets/32e5d191-2c89-474d-ba99-2f5ec6fdedb2" />
+
+- I will add Organizational Units in a later point
+
+
+
 
 
 
