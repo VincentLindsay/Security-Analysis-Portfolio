@@ -22,6 +22,10 @@
 <img width="752" height="521" alt="image" src="https://github.com/user-attachments/assets/1e20d847-1057-4284-9f58-dc134c1862e6" />
 
 
+# Installing Splunk universal forwarder (Domain Controller)
+- To be able to install the UF on the Domain Controller (DC), I have to install a different browser than internet explorer.
+<img width="1021" height="728" alt="image" src="https://github.com/user-attachments/assets/901b0fe2-cf1b-4e60-b984-df15bde6e631" />
 
+- I disabled the security zones in order to be able to access any website, and in this case install the UF.
 
 # Installing Splunk universal forwarder (Zeek Server)
