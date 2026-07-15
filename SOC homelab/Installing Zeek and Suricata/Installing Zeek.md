@@ -26,4 +26,17 @@
 <img width="1006" height="713" alt="image" src="https://github.com/user-attachments/assets/66848e98-9629-47e6-af23-403eeae77152" />
 
 - After sometime, Zeek was installed onto the server.
+- The next step is to change the configuration settings to load the packages for JA3, and JA4 packages, however I needed to install JA3 and JA4 for Zeek
+
+- I installed the zkg package
+<img width="952" height="812" alt="image" src="https://github.com/user-attachments/assets/fb12e301-f53a-4459-b18a-3c4e30c04ff5" />
+
+- Next, I navigated to the **/opt/zeek/bin** directory, and installed JA3, and JA4.
+<img width="957" height="395" alt="image" src="https://github.com/user-attachments/assets/47c2602d-4ea7-4678-b0c9-d4dea3175a02" />
+
+- The next step was to change the configuration settings.
+- In the configuration file, I added the ja3, and ja4 packages to be loaded by Zeek.
+<img width="782" height="110" alt="image" src="https://github.com/user-attachments/assets/14402832-846d-4303-af6a-487260cfe84a" />
+
+
 
