@@ -6,6 +6,6 @@
 
 # Table of Contents
 - [Installing Zeek](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/SOC%20homelab/Installing%20Zeek%20and%20Suricata/Installing%20Zeek.md)
-- [Installing Suricata]
+- [Installing Suricata](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/SOC%20homelab/Installing%20Zeek%20and%20Suricata/Installing%20Suricata.md)
 
 
