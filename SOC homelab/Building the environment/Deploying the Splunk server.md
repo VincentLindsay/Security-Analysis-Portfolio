@@ -25,13 +25,4 @@ This section revolves around the deployment of two different Ubuntu servers that
 <img width="1071" height="212" alt="image" src="https://github.com/user-attachments/assets/22eaf9e8-3040-4e98-b244-97dafaa1e1d9" />
 
 
-# Setting up Wazuh Server
-- Similarly, I configured the Wazuh server to be similar to the Splunk machine.
-<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/6e0a2722-ff41-4f33-b0e8-f8445d427530" />
-
-- I also installed the OpenSSH server much like the Splunk server.
-
-<img width="958" height="387" alt="image" src="https://github.com/user-attachments/assets/221a13f4-a791-4077-84f1-75215063e8b7" />
-
-- I also updated the packages, and created snapshot of the fresh installation.
 
