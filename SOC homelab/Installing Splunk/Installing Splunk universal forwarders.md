@@ -27,5 +27,23 @@
 <img width="1021" height="728" alt="image" src="https://github.com/user-attachments/assets/901b0fe2-cf1b-4e60-b984-df15bde6e631" />
 
 - I disabled the security zones in order to be able to access any website, and in this case install the UF.
+- As a result, I downloaded chrome in order to be to access splunk[.]com
+- Now I can proceed with installing the universal forwarder.
+<img width="1020" height="771" alt="image" src="https://github.com/user-attachments/assets/fc6b55a6-399f-4e31-b77c-1da72b34aec2" />
+
+- To simplify the identification of the host while doing Splunk searches, I changed the name of the DC.
+<img width="1011" height="340" alt="image" src="https://github.com/user-attachments/assets/d071832f-96da-4a20-8419-3aa2519a7937" />
+
+<img width="753" height="522" alt="image" src="https://github.com/user-attachments/assets/ea1381a3-c8d4-4b03-915e-c58f97606477" />
+
+- Once the UF was installed, I added these configurations
+- In Splunk, I can now see the DC, with the proper configurations I made.
+<img width="1777" height="835" alt="image" src="https://github.com/user-attachments/assets/8c4ffa43-b591-42df-9801-6d324249fe0a" />
+
+- I also installed sysmon to the DC.
+<img width="1798" height="720" alt="image" src="https://github.com/user-attachments/assets/777df848-205c-485a-9a78-88f591ec6a55" />
+
+
+
 
 # Installing Splunk universal forwarder (Zeek Server)
