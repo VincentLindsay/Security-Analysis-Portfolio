@@ -2,6 +2,7 @@
 - This section will showcase the creation of different indexes which pertain to log sources like the Windows Endpoint, or the Domain Controller.
 
 # Creating the indexes and installing apps on Splunk
+- To see a more detailed account of how I achieved this portion of the lab, check of my Splunk [lab.](https://github.com/VincentLindsay/Security-Analysis-Portfolio/tree/main/Splunk%20lab)
 - Prior to creating any indexes, I installed applications on Splunk that will make querying logs much easier.
 
 <img width="1193" height="726" alt="image" src="https://github.com/user-attachments/assets/60031c1a-3578-44ce-ab58-789475b2f7f4" />
