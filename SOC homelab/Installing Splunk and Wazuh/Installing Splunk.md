@@ -33,6 +33,7 @@
 
 - I modified the **50-cloud-init.yaml** file.
 <img width="961" height="352" alt="image" src="https://github.com/user-attachments/assets/a7c2f750-f8c0-45a3-93b5-eb4d047c8e3b" />
+
 - The configuration you see assigns a static IP address, and allows for internet connectivity to allow for package installation.
 - The machines utilize two NIC's: One pertains to the internal network, and the other pertains to my default gatway to allow for external connectivity.
 
