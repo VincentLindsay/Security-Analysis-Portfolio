@@ -47,12 +47,14 @@
 - After I installed the package, I navigated to the /opt/splunk/bin directory to install Splunk onto the server.
 - In the directory, I logged into the splunk account using **sudo -u splunk bash**, and began to run the installer.
 
-<img width="1542" height="256" alt="image" src="https://github.com/user-attachments/assets/225b78f4-60b3-429f-a42b-9b9072396879" />
+<img width="958" height="383" alt="image" src="https://github.com/user-attachments/assets/de44371c-3491-401a-a2d0-6cd71a582f1d" />
+
 
 - Agree to the license, and create an administrator account that will be used to login to the console.
 - Once you agree, the installation of Splunk will begin.
 
-<img width="1271" height="123" alt="image" src="https://github.com/user-attachments/assets/f8553f03-01ee-4dc9-b4d8-d6f483577ae3" />
+<img width="931" height="222" alt="image" src="https://github.com/user-attachments/assets/5396c8e9-2184-4030-aabe-34eb88c1db59" />
+
 
 - I also configured the Splunk account and service to always lauch on boot.
 - I also created a snapshot of when splunk was installed
