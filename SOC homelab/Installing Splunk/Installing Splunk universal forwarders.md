@@ -2,7 +2,7 @@
 - This section will involve the installation of Splunk universal forwarder on all virtual machines used in this lab, except the Splunk server itself.
 
 # Table of contents
-- [Windows 10 UF installation](https://github.com/VincentLindsay/Security-Analysis-Portfolio/edit/main/SOC%20homelab/Installing%20Splunk/Installing%20Splunk%20universal%20forwarders.md#installing-splunk-universal-forwarder-windows-10-endpoint)
+- [Windows 10 UF installation](#Installing-Splunk-universal-forwarder-Windows-10-Endpoint)
 
 # Installing Splunk universal forwarder (Windows 10 Endpoint)
 - To begin, I started with the installation of Splunk Universal Forwarders (UF) on the Windows 10 Endpoint.
