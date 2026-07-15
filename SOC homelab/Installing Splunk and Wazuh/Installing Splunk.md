@@ -32,10 +32,10 @@
 <img width="1255" height="108" alt="image" src="https://github.com/user-attachments/assets/eb3a4443-ee8a-4ad0-88e8-0ae5a6c15b9e" />
 
 - I modified the **50-cloud-init.yaml** file.
-<img width="890" height="147" alt="image" src="https://github.com/user-attachments/assets/e4458b11-59d3-41bf-be85-8986802da81a" />
+<img width="961" height="352" alt="image" src="https://github.com/user-attachments/assets/a7c2f750-f8c0-45a3-93b5-eb4d047c8e3b" />
+- The configuration you see assigns a static IP address, and allows for internet connectivity to allow for package installation.
+- The machines utilize two NIC's: One pertains to the internal network, and the other pertains to my default gatway to allow for external connectivity.
 
-
-- This allows for the IP address to be a static IP.
 
 
 - Next, I began to install the package to the Splunk server.
