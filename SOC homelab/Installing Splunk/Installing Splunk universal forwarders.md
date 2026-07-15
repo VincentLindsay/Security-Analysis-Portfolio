@@ -1,8 +1,9 @@
 # Overview
-- This section will involve the installation of Splunk universal forwarder on all virtual machines used in this lab, except the Splunk server itself.
+- This section will involve the installation of Splunk universal forwarder on all virtual machines used in this lab, except the Splunk server and the domain controller.
 
 # Table of contents
 - [Windows 10 UF installation](#Installing-Splunk-universal-forwarder-Windows-10-Endpoint)
+- [Zeek Server UF instllation]
 
 # Installing Splunk universal forwarder (Windows 10 Endpoint)
 - To begin, I started with the installation of Splunk Universal Forwarders (UF) on the Windows 10 Endpoint.
@@ -20,3 +21,7 @@
 - These are the following configuration settings for the Windows endpoint.
 <img width="752" height="521" alt="image" src="https://github.com/user-attachments/assets/1e20d847-1057-4284-9f58-dc134c1862e6" />
 
+
+
+
+# Installing Splunk universal forwarder (Zeek Server)
