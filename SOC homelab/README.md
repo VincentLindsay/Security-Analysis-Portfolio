@@ -13,6 +13,8 @@
 - [Building the environment](https://github.com/VincentLindsay/Security-Analysis-Portfolio/tree/main/SOC%20homelab/Building%20the%20environment)
 - [Configuring Active Directory](https://github.com/VincentLindsay/Security-Analysis-Portfolio/tree/main/SOC%20homelab/Configuring%20Active%20Directory)
 - [Installing Splunk](https://github.com/VincentLindsay/Security-Analysis-Portfolio/tree/main/SOC%20homelab/Installing%20Splunk)
+- [Creating the lab's indexes](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/SOC%20homelab/Installing%20Splunk/Creating%20the%20indexes.md)
+- [Installing Splunk universal forwarder on all VMs]
 - Configuring the Windows endpoint
 - Configuring the attacker machine
 - Simulating attacks
