@@ -4,7 +4,7 @@
 # Table of contents
 - [Windows 10 UF installation](#Installing-Splunk-universal-forwarder-Windows-10-Endpoint)
 - [Domain Controller UF installation](#Installing-Splunk-universal-forwarder-Domain-Controller)
-- [Zeek Server UF instllation]
+- [Suricata Server UF instllation](#Installing-Splunk-universal-forwarder-Suricata-Server)
 
 # Installing Splunk universal forwarder (Windows 10 Endpoint)
 - To begin, I started with the installation of Splunk Universal Forwarders (UF) on the Windows 10 Endpoint.
@@ -45,16 +45,17 @@
 <img width="1798" height="720" alt="image" src="https://github.com/user-attachments/assets/777df848-205c-485a-9a78-88f591ec6a55" />
 
 
-# Installing Splunk universal forwarder (Zeek Server)
-- To install the UF on the Zeek server, I utilized wget to obtain the UF installer.
+# Installing Splunk universal forwarder (Suricata Server)
+- To install the UF on the Suricata server, I utilized wget to obtain the UF installer.
 <img width="1916" height="725" alt="image" src="https://github.com/user-attachments/assets/6d6723c7-c865-4305-863b-51554a78990f" />
 
 - Next, I began to install the Splunk forwarder by installing the packages.
 <img width="1170" height="150" alt="image" src="https://github.com/user-attachments/assets/53bc0bf2-2105-4728-ae98-bda66f264f6e" />
 
-- I had the UF point towards the splunk server.
-- I also added the configurations necessary to forward the Zeek and Suricata logs.
-<img width="1912" height="567" alt="image" src="https://github.com/user-attachments/assets/f67a2e43-0697-4d1c-a472-f71702d1d6e6" />
+- I had the UF point towards the Splunk server.
+- I also added the configurations necessary to forward the  Suricata logs.
+<img width="882" height="486" alt="image" src="https://github.com/user-attachments/assets/adf124fd-6dab-4c4f-8015-491eb9163c41" />
+
 
 
 - After restarting the service, the universal forwarder restarted without any issue.
