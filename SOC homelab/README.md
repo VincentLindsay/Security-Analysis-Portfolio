@@ -16,7 +16,8 @@
 - [Installing Splunk](https://github.com/VincentLindsay/Security-Analysis-Portfolio/tree/main/SOC%20homelab/Installing%20Splunk)
 - [Creating the lab's indexes](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/SOC%20homelab/Installing%20Splunk/Creating%20the%20indexes.md)
 - [Installing Splunk universal forwarder on all VMs](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/SOC%20homelab/Installing%20Splunk/Installing%20Splunk%20universal%20forwarders.md)
-- Configuring the Windows endpoint
+- [Adding vms to the Active Directory Domain]
+- [Configuring the Windows endpoint](https://github.com/VincentLindsay/Security-Analysis-Portfolio/tree/main/SOC%20homelab/Configuring%20the%20Windows%20endpoint)
 - Configuring the attacker machine
 - Simulating attacks
 - Writing a report
