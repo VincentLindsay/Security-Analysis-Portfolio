@@ -59,5 +59,8 @@
 
 
 - After restarting the service, the universal forwarder restarted without any issue.
+- I verified the ingestion of the logs
+<img width="1800" height="917" alt="image" src="https://github.com/user-attachments/assets/7112f85e-4906-4929-b897-4d57cfa4b49c" />
+
 
 
