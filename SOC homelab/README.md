@@ -1,6 +1,6 @@
 # Overview
 
-- This homelab is an on-premises simulated enterprise SOC environment. This lab also combines Active Directory, Splunk SIEM, Wazuh XDR, Zeek, and Suricata for intrusion detection capability. 
+- This homelab is an on-premises simulated enterprise SOC environment. This lab also combines Active Directory, Splunk SIEM, and Suricata for intrusion detection capability. 
 - Additionally, this lab will also feature a kali linux machine to simulate attacker behavior such as kerberoasting.
 
 <img width="1208" height="767" alt="image" src="https://github.com/user-attachments/assets/70d6b94b-096c-4323-983c-9ddf42da44ca" />
