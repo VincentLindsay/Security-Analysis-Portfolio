@@ -9,5 +9,5 @@ This section of the SOC homelab showcases the installation of Active Directory D
 # Table of Contents
 - [Promoting the server to a Domain Controller (DC)](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/SOC%20homelab/Configuring%20Active%20Directory/Promoting%20the%20server%20to%20a%20Domain%20Controller.md)
 - [Adding VM's to the Active Directory Domain](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/SOC%20homelab/Configuring%20Active%20Directory/Adding%20VM's%20to%20the%20Active%20Directory%20Domain.md)
-- Creating Organizational Units
+- [Creating Organizational Units](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/SOC%20homelab/Configuring%20Active%20Directory/Creating%20Organizational%20Units.md)
 
