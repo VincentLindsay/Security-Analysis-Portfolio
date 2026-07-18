@@ -51,5 +51,34 @@
 
 <img width="1027" height="380" alt="image" src="https://github.com/user-attachments/assets/21aaef66-758e-4db5-806c-4a79e6cfc26d" />
 
+# Creating accounts for the OUs
+
+- For each OU, I created two accounts using a password that is the same for all accounts for simplicity.
+
+
+<img width="835" height="67" alt="image" src="https://github.com/user-attachments/assets/ca94fed3-27b1-44e8-b48c-2553af15bd24" />
+
+- In the screenshot, I created a defined password that will be the same across all accounts for each Organizational Unit.
+
+<img width="957" height="352" alt="image" src="https://github.com/user-attachments/assets/2f2f07a7-3cef-4f98-9f4c-8af678ee3510" />
+
+- Accounts were created for the **Servers** OU.
+
+- I also created accounts for the **Workstations** OU.
+
+
+<img width="890" height="342" alt="image" src="https://github.com/user-attachments/assets/a715899a-a49b-4c51-8e7e-f4b01c769678" />
+
+
+- Accounts were made for the **PhoenixAdmins** OU.
+
+
+<img width="970" height="360" alt="image" src="https://github.com/user-attachments/assets/dfc7575f-e719-4f07-b0bd-0c47b2076219" />
+
+
+- Lastly, I created accounts for the **ServiceAccounts** OU.
+
+
+<img width="862" height="338" alt="image" src="https://github.com/user-attachments/assets/471ccc3f-3e12-4613-a2a8-b9127a734ee9" />
 
 
