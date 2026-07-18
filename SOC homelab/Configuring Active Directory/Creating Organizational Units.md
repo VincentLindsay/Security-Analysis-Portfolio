@@ -14,10 +14,22 @@
 
 <img width="752" height="41" alt="image" src="https://github.com/user-attachments/assets/15009bbf-adc7-4443-98de-1cc01f62516d" />
 
-- This view shows the OU in the Active Directory Users and Computers"
+- I created another OU known as **ServiceAccounts**
 
-<img width="512" height="352" alt="image" src="https://github.com/user-attachments/assets/0c1c9f41-e82a-449a-a5d8-17c04c4550a2" />
 
+<img width="792" height="37" alt="image" src="https://github.com/user-attachments/assets/6a443407-6e4b-4427-924e-63f7af3d5a3d" />
+
+- Lastly, I created an OU called **PhoenixAdmins**
+
+
+<img width="806" height="32" alt="image" src="https://github.com/user-attachments/assets/ef30c0c7-b9b1-4db4-9815-1ec293fb868a" />
+
+- This view shows the OUs in the Active Directory Users and Computers
+
+
+<img width="1025" height="446" alt="image" src="https://github.com/user-attachments/assets/4f5624a7-b488-49d3-8efc-66a58f997393" />
+
+# Organizing the machines by OU
 
 - I first moved the Suricata sever to the Custom Organizational Unit: **Servers**
 
