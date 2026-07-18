@@ -40,3 +40,16 @@
 <img width="1012" height="25" alt="image" src="https://github.com/user-attachments/assets/8e91b990-6b04-4487-91b0-00b64eb76bb7" />
 
 - We can see the moved Splunk server in the **Servers** OU
+
+
+<img width="1022" height="397" alt="image" src="https://github.com/user-attachments/assets/11ce3d32-ace6-48ec-a866-8d5bb39badfd" />
+
+- The Windows workstation was also moved to the **Workstations** OU.
+
+<img width="1011" height="52" alt="image" src="https://github.com/user-attachments/assets/29cbeec9-f1ce-4b7e-aef8-026a741bfe00" />
+
+
+<img width="1027" height="380" alt="image" src="https://github.com/user-attachments/assets/21aaef66-758e-4db5-806c-4a79e6cfc26d" />
+
+
+
