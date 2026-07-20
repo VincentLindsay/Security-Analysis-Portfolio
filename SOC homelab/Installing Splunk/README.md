@@ -8,5 +8,5 @@
 - [Installing Splunk for the lab](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/SOC%20homelab/Installing%20Splunk/Installing%20Splunk%20for%20the%20lab.md)
 - [Installing Splunk universal forwarders](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/SOC%20homelab/Installing%20Splunk/Installing%20Splunk%20universal%20forwarders.md)
 - [Creating the indexes](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/SOC%20homelab/Installing%20Splunk/Creating%20the%20indexes.md)
-- [Creating alerts and dashboards for this lab]
+- [Creating alerts for this lab](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/SOC%20homelab/Installing%20Splunk/Creating%20Splunk%20alerts.md)
 
