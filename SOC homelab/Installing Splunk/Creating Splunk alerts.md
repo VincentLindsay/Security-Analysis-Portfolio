@@ -76,5 +76,3 @@ index=winevent (EventCode=4720 OR EventCode=4728)
 <img width="1002" height="910" alt="image" src="https://github.com/user-attachments/assets/f278d896-4d22-4345-ac66-d0cce2838948" />
 
 
-
-# Creating the dashboards
