@@ -18,6 +18,7 @@
 - [Installing Splunk universal forwarder on all VMs](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/SOC%20homelab/Installing%20Splunk/Installing%20Splunk%20universal%20forwarders.md)
 - [Adding VM's to the Active Directory Domain](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/SOC%20homelab/Configuring%20Active%20Directory/Adding%20VM's%20to%20the%20Active%20Directory%20Domain.md)
 - [Configuring the Windows endpoint](https://github.com/VincentLindsay/Security-Analysis-Portfolio/tree/main/SOC%20homelab/Configuring%20the%20Windows%20endpoint)
-- Configuring the attacker machine
+- [Configuring the attacker machine](https://github.com/VincentLindsay/Security-Analysis-Portfolio/tree/main/SOC%20homelab/Configuring%20the%20attacker%20machine)
+- [Creating Splunk alerts, and dashboards]
 - Simulating attacks
 - Writing a report
