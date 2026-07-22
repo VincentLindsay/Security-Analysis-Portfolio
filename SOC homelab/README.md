@@ -21,4 +21,4 @@
 - [Configuring the attacker machine](https://github.com/VincentLindsay/Security-Analysis-Portfolio/tree/main/SOC%20homelab/Configuring%20the%20attacker%20machine)
 - [Creating Splunk alerts for the lab](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/SOC%20homelab/Installing%20Splunk/Creating%20Splunk%20alerts.md)
 - [Simulating an attack](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/SOC%20homelab/Simulating%20an%20attack/README.md)
-- Writing a report
+- [Writing a report](https://github.com/VincentLindsay/Security-Analysis-Portfolio/tree/main/SOC%20homelab/Writing%20a%20report)
