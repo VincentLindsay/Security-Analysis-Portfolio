@@ -4,22 +4,27 @@
     - **Reconnaisance** by:
         - Network Scanning — T1595 — Attacker performs a ping sweep and full‑port Nmap scan on 172.16.50.0/24
         - Service Enumeration — T1046 — Attacker identifies Kerberos, LDAP, RDP on 172.16.50.10
-        - LDAP Banner Grabbing — T1040 — Attacker uses Netcat to pull LDAP banners and confirm domain name
+    
  
     - **Credential Access** via:
         - Kerberos Username Enumeration — T1087 — Kerbrute probes valid AD usernames
         - AS‑REP Roasting — T1556.004 — Attacker requests AS‑REP tickets for accounts without preauthentication
         - Kerberoasting — T1558.003 — Attacker requests TGS tickets for SPN accounts
         - Password Cracking — T1110.002 — Hashcat cracks AS‑REP and Kerberoast hashes
-
+        - Registry Hive Dumping — T1003.002 - Dumped SAM, SYSTEM, SECURITY hives from DC01.
+    - Initial Access
+        - Valid Accounts — T1078 - Successful authentication to DC01 using Bob’s cracked domain credentials.
     - **Lateral Movement** by:
         - Using Valid Accounts — T1078 — Attacker uses cracked credentials (Privileged accounts)
-        - RDP Lateral Movement — T1021.001 — Attacker uses xfreerdp to access DC01$
+        - Remote Services: SMB/Service Execution — T1021.002 -CrackMapExec confirmed Bob had local admin rights on DC01 (“Pwn3d!”).
+        - WMI for Remote Execution — T1047 —  WMIexec used as an alternate remote execution vector.
  
     - **Privilege Escalation**
-        - Create Account — T1136.001 — Attacker creates adm‑backdoor
-        - Privilege Escalation via Group Membership — T1078 — Attacker adds adm‑backdoor to Domain Admins
-        - Modify Registry — T1112 — Attacker hides the backdoor account via registry changes
+        - Privilege Escalation via Local Admin — T1078 —  Bob’s local admin rights on DC01 allowed full SYSTEM‑level execution.
+        - Service Execution for SYSTEM Shell — T1543.003  — PsExec service created and executed, yielding NT AUTHORITY\SYSTEM.
+        - Create Account — T1136.001 — Attacker creates Bobby
+        - Privilege Escalation via Group Membership — T1078 — Attacker adds Bobby to Domain Admins
+       
  
     - **Collection**
         - File Collection — T1005 — Attacker compresses C:\Users into a ZIP archive
@@ -76,6 +81,20 @@
 <img width="1612" height="121" alt="image" src="https://github.com/user-attachments/assets/e8dbee07-ddca-439a-8e43-ad347a3af956" />
 
 - Now we will attempt to remotely access the Domain Controller.
-<img width="1127" height="77" alt="image" src="https://github.com/user-attachments/assets/d3c462f9-45b6-4a82-9ce4-4ae98bd78505" />
+<img width="1310" height="268" alt="image" src="https://github.com/user-attachments/assets/049c84ff-a575-4e67-a1e5-f2d0ba2a9710" />
+
+- After sometime, I was able to crack a remote shell with psexec.exe using impacket.
+<img width="1343" height="371" alt="image" src="https://github.com/user-attachments/assets/17916650-e75d-46dd-a859-5150f7ef36d3" />
+
+- We've achieved the **SYSTEM** account access, and therefore achieved full domain compromise.
+- Now the attacker will begin retrieving vital information like cached credentials in the domain.
+<img width="846" height="150" alt="image" src="https://github.com/user-attachments/assets/96c23246-a5bc-48e9-a8cb-b1da074822ad" />
+
+- In addition, a brand new Domain Account knwon as **Bobby** was created.
+- The account has domain wide persistence. 
+<img width="625" height="151" alt="image" src="https://github.com/user-attachments/assets/7fdf27b9-facc-4347-ba81-0bf8ee96d5b6" />
+
+- Lastly, the attacker clears logs to hide their presence.
+<img width="630" height="85" alt="image" src="https://github.com/user-attachments/assets/9ca196cb-d910-484e-a44a-2847da238c43" />
 
 
