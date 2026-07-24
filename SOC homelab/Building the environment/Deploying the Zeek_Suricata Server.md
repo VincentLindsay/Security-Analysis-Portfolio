@@ -1,8 +1,8 @@
 # Overview
-This server will be the IDS server using Zeek, and Suricata for network monitoring.
+This server will be the IDS server using Suricata for network monitoring.
 
 # Set up
-- Similar to the [Deploying the Splunk, and Wazuh servers](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/SOC%20homelab/Building%20the%20environment/Deploying%20the%20Splunk%2C%20and%20Wazuh%20servers.md) section, I obtained the ISO from Ubuntu's download page.
+- Similar to the [Deploying the Splunk server](https://github.com/VincentLindsay/Security-Analysis-Portfolio/blob/main/SOC%20homelab/Building%20the%20environment/Deploying%20the%20Splunk%2C%20and%20Wazuh%20servers.md) section, I obtained the ISO from Ubuntu's download page.
 - I also installed the OpenSSH server
 <img width="1255" height="805" alt="image" src="https://github.com/user-attachments/assets/78e5f227-e07a-47c8-96e2-890a5efa4ca6" />
 
